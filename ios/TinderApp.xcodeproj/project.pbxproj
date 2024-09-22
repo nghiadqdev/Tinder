@@ -119,6 +119,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				D7E384D92CA01A7A00ECE01F /* Resources */,
 				13B07FAE1A68108700A75B9A /* TinderApp */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* TinderAppTests */,
@@ -149,6 +150,13 @@
 				89C6BE57DB24E9ADA2F236DE /* Pods-TinderApp-TinderAppTests.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		D7E384D92CA01A7A00ECE01F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
